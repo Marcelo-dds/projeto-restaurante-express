@@ -32,7 +32,7 @@ Siga estas etapas para começar a usar o Gerenciador de Restaurantes:
 
 1. **Clone o repositório** ou copie o código para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu-repositorio/gerenciador-restaurantes.git
+   git clone https://github.com/Marcelo-dds/projeto-restaurante-express.git
 Execute o programa no seu terminal:
 
 bash
